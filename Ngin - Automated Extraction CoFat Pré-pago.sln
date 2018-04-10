@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ngin - Automated Extraction CoFat Pré-pago", "Ngin - Automated Extraction CoFat Pré-pago\Ngin - Automated Extraction CoFat Pré-pago.csproj", "{4DF09790-3135-496D-BD8B-DF5EFB812CE8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{78831700-BF72-4C0C-98B8-BEFC99B63274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF09790-3135-496D-BD8B-DF5EFB812CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF09790-3135-496D-BD8B-DF5EFB812CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF09790-3135-496D-BD8B-DF5EFB812CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF09790-3135-496D-BD8B-DF5EFB812CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78831700-BF72-4C0C-98B8-BEFC99B63274}.Debug|Any CPU.ActiveCfg = Debug
+		{78831700-BF72-4C0C-98B8-BEFC99B63274}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80864838-947C-4310-A1C6-C90559D29945}
+	EndGlobalSection
+EndGlobal
